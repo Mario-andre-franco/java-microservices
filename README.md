@@ -1,6 +1,6 @@
 # Curso Microserviços
 
-Curso sobre microserviços utilizando Feign, Discovery Server Eureka, Zuul, Hystrix, Ribbon, JWT e API Gateway Zuul
+Curso sobre microserviços utilizando Feign, Discovery Server Eureka, Hystrix, Ribbon, JWT e API Gateway Zuul
 
 
 ## Referência
