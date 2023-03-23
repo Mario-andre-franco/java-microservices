@@ -1,11 +1,16 @@
 # Curso Microserviços
 
-Curso sobre microserviços utilizando Feign, Discovery Server Eureka, Hystrix, Ribbon, JWT e API Gateway Zuul
+Curso sobre microserviços utilizando Feign, Discovery Server Eureka, Zuul, Hystrix, Ribbon, JWT e API Gateway Zuul
 
 
 ## Referência
 
  - [Repositorio de referência](https://github.com/acenelio/ms-course)
+ - [Eureka](https://docs.spring.io/spring-cloud-netflix/docs/current/reference/html/)
+ - [Zuul](https://github.com/Netflix/zuul)
+ - [Hystrix](https://github.com/Netflix/Hystrix/wiki)
+ - [Feign](https://docs.spring.io/spring-cloud-openfeign/docs/current/reference/html/)
+ - [Ribbon](https://github.com/Netflix/ribbon)
  
 
 
